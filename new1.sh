@@ -1,1 +1,1 @@
-ehco "how are you"
+echo "how are you"
