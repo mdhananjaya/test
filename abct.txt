@@ -1,0 +1,5 @@
+echo "how are you doing rashmi"
+echo "where are you going Kavitha"
+echo "well..! how is your unix boy doing"
+echo "Good evening vinay"
+echo "good enevning suhan"
